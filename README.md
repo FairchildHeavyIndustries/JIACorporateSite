@@ -1,4 +1,4 @@
-JIA Corporate Site
+JIA Corporate Website
 ================
 
-JIA Corporate Website
+JIA Corporate Website source repository
